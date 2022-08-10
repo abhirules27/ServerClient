@@ -1,6 +1,6 @@
-# Client Codee
-
+# Client Code
 # To be converted in exe
+
 import socket
 SERVER_IP='192.168.0.181'
 SERVER_PORT=5678
